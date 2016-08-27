@@ -6,9 +6,9 @@ color:
   saturation: 0.7469155979342759
   rhythmicContrast: 0.7983094560913742
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: ECode Technologies
